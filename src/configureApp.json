@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://wilcityservice.com/wp-json/wilokeservice/v1/",
+  "timeout": 300000
+}
